@@ -3,7 +3,7 @@
 
 &nbsp;
 
-This is a repository created for the module TRP479 in Spring 2024. It primarily holds the code for the Google CoLab notebooks that we will be using. Slides and other resources are available through Blackboard. 
+This is a repository created for the University of Sheffield School of Geography and Planning module TRP479 in Spring 2025. It primarily holds the code for the Google CoLab (Python) notebooks that we will be using. Slides and other resources are linked here and available through Blackboard. 
 
 &nbsp;
 
@@ -27,44 +27,44 @@ The module leader is Jacob Macdonald (j.macdonald@sheffield.ac.uk) and will also
 *Weekly Class Schedule:*
 
 Week 1: Introduction
-- Lecture 1 - History of data science and core concepts
+- Lecture - Evolution of data science and core concepts
 
 Week 2: Programming and Python
-- Lecture 2 – Introduction to programming and computational notebooks
-- Workshop 1 – Introduction to Python I: basic elements and data types
+- Lecture – Introduction to programming and computational notebooks
+- Workshop – Introduction to Python I: basic elements and data types
 
 Week 3: Lists and Loops
-- Lecture 3 – Data (object) management, manipulation and storage
-- Workshop 2 – Introduction to Python II: loops and conditional statements
+- Lecture – Data (object) management, manipulation and storage
+- Workshop – Introduction to Python II: loops and conditional statements
 
 Week 4: Building functions and code
-- Lecture 4 - 
-- Workshop 3 – Introduction to Python III: functions and modules
+- Lecture - 
+- Workshop – Introduction to Python III: functions and modules
 
 Week 5:
-- Lecture 5 -  GOOD PRACTICE WITH CODING.... 
-- Workshop 4 – (DATASETS...) Working with code: GitHub, data management and ethics
+- Lecture -  GOOD PRACTICE WITH CODING.... 
+- Workshop – (DATASETS...) Working with code: GitHub, data management and ethics
 
 Week 6:
-- Lecture 6 - 
-- Workshop 5 – Data processing with pandas I
+- Lecture - 
+- Workshop – Data processing with pandas I
 
 Week 7:
-- Lecture 7 - 
-- Workshop 6 – Data processing with pandas II
+- Lecture - 
+- Workshop – Data processing with pandas II
 
 Week 8:
-- Lecture 8 - 
-- Workshop 7 – Plotting data part I: data visuals in Python
+- Lecture - 
+- Workshop – Plotting data part I: data visuals in Python
 
 **Vacation break Monday, April 7 – Sunday April, 27**
 
 Week 9:
-- Lecture 9 - 
+- Lecture - 
 - Workshop – Plotting data part II: Describing a dataset visually
 
 Week 10:
-- Lecture 10 - 
-- Workshop 9 – Geopandas and working with spatial data
+- Lecture - 
+- Workshop – Geopandas and working with spatial data
 
 Week 11: *Assessment support session*
