@@ -27,47 +27,44 @@ The module leader is Jacob Macdonald (j.macdonald@sheffield.ac.uk) and will also
 *Weekly Class Schedule:*
 
 Week 1: Introduction
-- Lecture - History of data science and core concepts
+- Lecture 1 - History of data science and core concepts
 
 Week 2: Programming and Python
-- Lecture – Introduction to programming and computational notebooks
-- Workshop – Introduction to Python I: basic elements and data types
--   Week 2: Programming basics *(Python Lesson 1)*
+- Lecture 2 – Introduction to programming and computational notebooks
+- Workshop 1 – Introduction to Python I: basic elements and data types
 
+Week 3: Lists and Loops
+- Lecture 3 – Data (object) management, manipulation and storage
+- Workshop 2 – Introduction to Python II: loops and conditional statements
 
-Week 3: 
-Workshop – Introduction to Python II: loops and conditional statements
--   Week 3: Elements, data types and lists *(Python Lesson 2)*
-
-Week 4:
-Workshop – Introduction to Python III: functions and modules
--   Week 4: For loops, conditionals and functions *(Python Lesson 3)*
+Week 4: Building functions and code
+- Lecture 4 - 
+- Workshop 3 – Introduction to Python III: functions and modules
 
 Week 5:
-Workshop – Working with code: GitHub, data management and ethics
--   Week 5: Data science project management; GitHub; Ethics
+- Lecture 5 -  GOOD PRACTICE WITH CODING.... 
+- Workshop 4 – (DATASETS...) Working with code: GitHub, data management and ethics
 
 Week 6:
-Workshop – Data processing with pandas I
--   Week 6: Data processing in Pandas I *(Python Lesson 5)*
+- Lecture 6 - 
+- Workshop 5 – Data processing with pandas I
 
 Week 7:
-Workshop – Data processing with pandas II
--   Week 7: Data processing in Pandas II *(Python Lesson 6)*
+- Lecture 7 - 
+- Workshop 6 – Data processing with pandas II
 
 Week 8:
-Workshop – Plotting data part 1
-Vacation break Monday, April 7 – Sunday April, 27
--   Week 8: Data visuals and plotting in pandas *(Python Lesson 7)*
+- Lecture 8 - 
+- Workshop 7 – Plotting data part I: data visuals in Python
+
+**Vacation break Monday, April 7 – Sunday April, 27**
 
 Week 9:
-Workshop – Plotting data part 2
--   Week 9: Describing a dataset - visually and quantitatively *(Python Lesson 8)*
+- Lecture 9 - 
+- Workshop – Plotting data part II: Describing a dataset visually
 
 Week 10:
-Workshop – Geopandas and working with spatial data
--   *Week 10: Assessment support session*
+- Lecture 10 - 
+- Workshop 9 – Geopandas and working with spatial data
 
-Week 11:
-Assessment support session
--   *Week 11: Assessment support session*
+Week 11: *Assessment support session*
